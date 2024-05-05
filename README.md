@@ -5,9 +5,15 @@ This project is an interactive maze game implemented in Python, featuring maze g
 # Features 
 
 Interactive gameplay where the user navigates through mazes. 
-Maze generation:
+
+###### Maze generation:
+
 Randomly generated mazes. 
-Manually designed mazes. 
-Pathfinding algorithms: 
+
+Manually designed mazes.
+
+###### Pathfinding algorithms: 
+
 Breadth-First Search (BFS) for finding the shortest path. 
+
 Depth-First Search (DFS) for pathfinding exploration.
